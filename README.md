@@ -107,6 +107,6 @@ Operational Efficiency: Use trends in outlet establishment and performance to pl
 
 Show what the dashboard looks like.
 
-- ![Dashboard](https://github.com/santosh-datahub/Pizza_sales/blob/main/Screenshot%20HOME%20.png)
+- ![Dashboard]([https://github.com/santosh-datahub/Pizza_sales/blob/main/Screenshot%20HOME%20.png](https://github.com/santosh-datahub/blinkit_sales-/blob/main/Snapshot%20%20.png))
 
 
